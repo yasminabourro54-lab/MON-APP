@@ -1,0 +1,36 @@
+id,marque,modele,annee,prix_mad,kilometrage,carburant,boite_vitesses,ville,options,photo_url,lien_annonce
+1,Dacia,Logan,2019,85000,75000,Diesel,Manuelle,Casablanca,"Climatisation;Direction assistée;Vitres électriques",https://picsum.photos/seed/carmatch1/600/400,https://example.com/annonces/1
+2,Dacia,Duster,2021,155000,45000,Diesel,Manuelle,Rabat,"Climatisation;GPS;Caméra de recul;Barres de toit",https://picsum.photos/seed/carmatch2/600/400,https://example.com/annonces/2
+3,Renault,Clio,2018,95000,80000,Essence,Manuelle,Marrakech,"Climatisation;Bluetooth;Limiteur de vitesse",https://picsum.photos/seed/carmatch3/600/400,https://example.com/annonces/3
+4,Renault,Symbol,2020,105000,60000,Diesel,Manuelle,Fès,"Climatisation;Radar de recul;Vitres électriques",,https://example.com/annonces/4
+5,Peugeot,208,2021,135000,35000,Essence,Automatique,Casablanca,"Climatisation auto;GPS;Caméra de recul;Toit panoramique",https://picsum.photos/seed/carmatch5/600/400,https://example.com/annonces/5
+6,Peugeot,301,2017,78000,95000,Diesel,Manuelle,Meknès,"Climatisation;Radio CD",https://picsum.photos/seed/carmatch6/600/400,https://example.com/annonces/6
+7,Hyundai,Accent,2019,110000,70000,Diesel,Manuelle,Tanger,"Climatisation;Bluetooth;Caméra de recul",https://picsum.photos/seed/carmatch7/600/400,https://example.com/annonces/7
+8,Hyundai,Tucson,2022,265000,25000,Diesel,Automatique,Casablanca,"Climatisation auto;GPS;Caméra 360;Cuir;Toit ouvrant",https://picsum.photos/seed/carmatch8/600/400,https://example.com/annonces/8
+9,Kia,Picanto,2020,90000,50000,Essence,Manuelle,Agadir,"Climatisation;Bluetooth;Vitres électriques",https://picsum.photos/seed/carmatch9/600/400,https://example.com/annonces/9
+10,Kia,Sportage,2021,240000,40000,Diesel,Automatique,Rabat,"GPS;Caméra de recul;Cuir;Régulateur de vitesse",https://picsum.photos/seed/carmatch10/600/400,https://example.com/annonces/10
+11,Volkswagen,Golf,2018,150000,90000,Diesel,Manuelle,Casablanca,"Climatisation auto;GPS;Radar de recul;Jantes alu",https://picsum.photos/seed/carmatch11/600/400,https://example.com/annonces/11
+12,Volkswagen,Polo,2020,130000,55000,Essence,Manuelle,Kénitra,"Climatisation;Bluetooth;Limiteur de vitesse",,https://example.com/annonces/12
+13,Toyota,Corolla,2021,210000,30000,Hybride,Automatique,Casablanca,"Climatisation auto;GPS;Caméra de recul;Régulateur adaptatif",https://picsum.photos/seed/carmatch13/600/400,https://example.com/annonces/13
+14,Toyota,Yaris,2019,115000,65000,Essence,Manuelle,Marrakech,"Climatisation;Bluetooth;Caméra de recul",https://picsum.photos/seed/carmatch14/600/400,https://example.com/annonces/14
+15,Fiat,Doblo,2017,70000,120000,Diesel,Manuelle,Oujda,"Direction assistée;Vitres électriques",https://picsum.photos/seed/carmatch15/600/400,https://example.com/annonces/15
+16,Ford,Fiesta,2018,88000,85000,Essence,Manuelle,Fès,"Climatisation;Bluetooth;Jantes alu",https://picsum.photos/seed/carmatch16/600/400,https://example.com/annonces/16
+17,Ford,Focus,2019,125000,75000,Diesel,Manuelle,Tanger,"Climatisation auto;GPS;Radar de recul",https://picsum.photos/seed/carmatch17/600/400,https://example.com/annonces/17
+18,Nissan,Micra,2020,102000,48000,Essence,Automatique,Casablanca,"Climatisation;Caméra de recul;Bluetooth",https://picsum.photos/seed/carmatch18/600/400,https://example.com/annonces/18
+19,Nissan,Qashqai,2021,225000,38000,Diesel,Automatique,Marrakech,"GPS;Caméra 360;Toit panoramique;Cuir",https://picsum.photos/seed/carmatch19/600/400,https://example.com/annonces/19
+20,Honda,Civic,2018,145000,85000,Essence,Automatique,Rabat,"Climatisation auto;GPS;Caméra de recul;Toit ouvrant",https://picsum.photos/seed/carmatch20/600/400,https://example.com/annonces/20
+21,Mercedes,Classe A,2020,260000,45000,Diesel,Automatique,Casablanca,"Cuir;GPS;Caméra de recul;Sièges chauffants;Toit panoramique",https://picsum.photos/seed/carmatch21/600/400,https://example.com/annonces/21
+22,BMW,Série 3,2019,250000,70000,Diesel,Automatique,Marrakech,"Cuir;GPS;Radar de recul;Toit ouvrant",https://picsum.photos/seed/carmatch22/600/400,https://example.com/annonces/22
+23,Audi,A3,2018,190000,80000,Diesel,Automatique,Tanger,"Climatisation auto;GPS;Jantes alu;Radar de recul",,https://example.com/annonces/23
+24,Dacia,Sandero,2022,125000,15000,Essence,Manuelle,Agadir,"Climatisation;Bluetooth;Limiteur de vitesse",https://picsum.photos/seed/carmatch24/600/400,https://example.com/annonces/24
+25,Renault,Captur,2021,165000,32000,Diesel,Manuelle,Casablanca,"GPS;Caméra de recul;Climatisation auto;Toit bicolore",https://picsum.photos/seed/carmatch25/600/400,https://example.com/annonces/25
+26,Peugeot,2008,2022,215000,18000,Essence,Automatique,Rabat,"GPS;Caméra de recul;Toit panoramique;Régulateur de vitesse",https://picsum.photos/seed/carmatch26/600/400,https://example.com/annonces/26
+27,Volkswagen,Passat,2017,140000,130000,Diesel,Automatique,Fès,"Cuir;GPS;Climatisation auto;Radar de recul",https://picsum.photos/seed/carmatch27/600/400,https://example.com/annonces/27
+28,Toyota,Hilux,2020,275000,60000,Diesel,Manuelle,Oujda,"Climatisation;4x4;Barres de toit;Attelage",https://picsum.photos/seed/carmatch28/600/400,https://example.com/annonces/28
+29,Suzuki,Swift,2019,98000,58000,Essence,Manuelle,Meknès,"Climatisation;Bluetooth;Vitres électriques",https://picsum.photos/seed/carmatch29/600/400,https://example.com/annonces/29
+30,Skoda,Octavia,2019,148000,82000,Diesel,Manuelle,Tétouan,"Climatisation auto;GPS;Jantes alu;Radar de recul",https://picsum.photos/seed/carmatch30/600/400,https://example.com/annonces/30
+31,Citroën,C3,2020,108000,52000,Essence,Manuelle,Casablanca,"Climatisation;Bluetooth;Caméra de recul",,https://example.com/annonces/31
+32,Seat,Ibiza,2018,92000,,Essence,Manuelle,Rabat,"Climatisation;Bluetooth",https://picsum.photos/seed/carmatch32/600/400,https://example.com/annonces/32
+33,Opel,Astra,2017,,110000,Diesel,Manuelle,Marrakech,"Climatisation;Jantes alu",https://picsum.photos/seed/carmatch33/600/400,https://example.com/annonces/33
+34,Jeep,Renegade,2021,235000,28000,Essence,Automatique,Casablanca,"GPS;Caméra de recul;Toit ouvrant;4x4",https://picsum.photos/seed/carmatch34/600/400,https://example.com/annonces/34
+35,Land Rover,Defender,2020,520000,55000,Diesel,Automatique,Agadir,"Cuir;GPS;Caméra 360;4x4;Toit panoramique",https://picsum.photos/seed/carmatch35/600/400,https://example.com/annonces/35
